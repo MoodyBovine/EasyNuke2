@@ -79,3 +79,8 @@ Commands:
   * EX2: //boomhelix <<<< If Element Mode is Fire, and target mode is "bt", will cast Pyrohelix on your current battle target.
   * Macro usage: /con ez boomhelix # /OR/ /con boomhelix #
 * Also supports a short version //bhelix # or //ez bhelix
+
+#### hud xxx
+* Disable/Enable the gui, when disabled element changes will echo in chat
+  * EX: //ez hud on  <<<< will enable hud/gui and disable chat echo
+  * EX2: //ez hud off <<<< will disable hud/gui and enable chat echo
