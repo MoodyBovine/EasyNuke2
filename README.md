@@ -1,5 +1,8 @@
 EasyNuke2 provides universal commands for casting single target and area of effect BLM and GEO nukes, and WHM cures.
 
+Notes:
+    *Currently to adjust the position of the gui the variables iPosition_x and iPosition_y must be changed in EasyNuke.lua
+
 Commands:
 
 #### element XXX
