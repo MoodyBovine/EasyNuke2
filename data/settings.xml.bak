@@ -1,0 +1,8 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <current_element>fire</current_element>
+        <target_mode>t</target_mode>
+		<toggle_hud>1</toggle_hud>
+    </global>
+</settings>
